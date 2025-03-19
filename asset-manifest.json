@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Branding/static/css/main.41909516.css",
+    "main.js": "/Branding/static/js/main.cf86b1eb.js",
+    "static/media/Logo.svg": "/Branding/static/media/Logo.2269a9f40b352d7c46f911f0c7c5c494.svg",
+    "static/media/websvg.svg": "/Branding/static/media/websvg.a6eb2a6280bb28b635b590a66b111e7d.svg",
+    "static/media/Banner.svg": "/Branding/static/media/Banner.ef0803f557de9931725e.svg",
+    "static/media/starl-outline.svg": "/Branding/static/media/starl-outline.e0f4f04071ed518b1fb6762a3caba296.svg",
+    "static/media/star-orange.svg": "/Branding/static/media/star-orange.16f491e5b8f731a84b2a68be22bbd536.svg",
+    "index.html": "/Branding/index.html",
+    "main.41909516.css.map": "/Branding/static/css/main.41909516.css.map",
+    "main.cf86b1eb.js.map": "/Branding/static/js/main.cf86b1eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41909516.css",
+    "static/js/main.cf86b1eb.js"
+  ]
+}

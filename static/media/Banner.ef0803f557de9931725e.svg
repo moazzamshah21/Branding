@@ -1,0 +1,42 @@
+<svg width="1440" height="790" viewBox="0 0 1440 790" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_831_600" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="1440" height="790">
+<rect width="1440" height="790" fill="#EEEEEC"/>
+</mask>
+<g mask="url(#mask0_831_600)">
+<path d="M1195.67 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M530.86 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1291.35 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M625.308 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M54.9431 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1385.79 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M720.981 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M150.617 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M815.429 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M245.065 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M911.103 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M340.738 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1005.55 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M435.186 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1101.22 -58.5469V1000" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 509.364L-210 509.364" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 603.812L-210 603.812" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 699.486L-210 699.485" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 33.4478L-210 33.4476" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 129.122L-210 129.121" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 223.569L-210 223.569" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 319.243L-210 319.243" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<path d="M1561.2 413.69L-210 413.69" stroke="black" stroke-opacity="0.11" stroke-width="1.68472"/>
+<rect width="1440" height="790" fill="url(#paint0_radial_831_600)"/>
+<rect width="1440" height="125" fill="url(#paint1_linear_831_600)"/>
+</g>
+<defs>
+<radialGradient id="paint0_radial_831_600" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(720 395) rotate(87.8987) scale(572.741 1043.55)">
+<stop stop-color="#EEEEEC"/>
+<stop offset="1" stop-color="#EEEEEC" stop-opacity="0"/>
+</radialGradient>
+<linearGradient id="paint1_linear_831_600" x1="720" y1="0" x2="720" y2="125" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EEEEEC"/>
+<stop offset="1" stop-color="#EEEEEC" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
