@@ -1,0 +1,79 @@
+
+/* banner sec*/
+.banner{
+    background: url("../Assets/Banner.svg");
+    background-position: center center;
+    background-size: cover;
+    width: 100vw;
+    padding: 15rem 0 5rem 0;
+}
+@media only screen and (max-width: 600px){
+    .banner{
+        padding:10rem 2rem 5rem 2rem ;
+    }
+}
+
+.banner-heading{
+    text-align: end;
+    font-size: clamp(24px, 10vw, 100px);
+    line-height: clamp(40px, 12vw, 90px); 
+    letter-spacing: clamp(-6px, -5vw, -6px);
+    font-weight: 900;
+    text-transform: uppercase;
+    color: #000;
+    white-space: nowrap;
+}
+
+.eye-box {
+    height: 80px;
+    width: 150px;
+    border-radius: 20px;
+    background-color: #fa9dcd;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 20px !important;
+    border: 2px solid #000;
+    transform: rotate(10deg) !important;
+}
+
+.banner-sub-text{
+    font-size: clamp(16px, 5vw, 24px); 
+    letter-spacing: clamp(-1px, -0.5vw, -4px); 
+}
+
+.highlight-text{
+    background: #ebd22f;
+    margin-left: 10px;
+    padding: 4px;
+    border-radius: 10px;
+}
+
+.starou{
+    position: absolute;
+    left: 32vw;
+    top: 15vh;
+}
+
+.staro{
+    position: absolute;
+    right: 25vw;
+    top: 12vh;
+    animation: rotate 10s linear 0s infinite normal forwards;
+
+}
+
+@keyframes rotate {
+	0% {
+		transform: rotate(0);
+	}
+
+	100% {
+		transform: rotate(-360deg);
+	}
+}
+
+
+/* marquee sec*/
+

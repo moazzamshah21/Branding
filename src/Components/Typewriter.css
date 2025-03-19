@@ -1,0 +1,35 @@
+/* typewriter.css */
+@keyframes blink {
+    50% {
+      border-color: transparent;
+    }
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 200% 0;
+    }
+
+    100% {
+        background-position: 0% 0;
+      }
+  }
+  
+  .typewriter-word {
+      font-weight: 900;
+      font-size: clamp(24px, 10vw, 80px);
+      line-height: clamp(40px, 12vw, 90px); /* Responsive line height */
+      letter-spacing: clamp(-5px, -2vw, -6px); /* Responsive letter spacing */
+      display: inline-block;
+      padding: 0.2em;
+      border-right: 2px solid black; /* Simulate cursor */
+      animation: blink 0.7s step-end infinite, gradient-animation 10s linear infinite;
+    
+      /* Gradient color with fixed position */
+      background: linear-gradient(45deg, #f595cf, #6b2ff7, #6a11cb, #f595cf);
+      background-size: 200% 200%; /* Set the size large enough to allow sliding effect */
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent; /* Make the text color transparent to show the gradient */
+  }
+  
