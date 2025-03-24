@@ -44,6 +44,31 @@ const Home =()=>{
                 </div>
                 </div>
             </div>
+            
+            <div class="marquee_container">
+                <div class="marquee">
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                </div>
+                <div class="marquee">
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                    <h1>First Text</h1>
+                    <h1>Second Text</h1>
+                    <h1>Third Text</h1>
+                </div>
+            </div>
         </>
     );
 }
